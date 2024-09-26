@@ -16,7 +16,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
   </thead>
   <tbody>
     <tr>
-      <td>       </td>
+      <td>![out1](https://github.com/user-attachments/assets/735f704f-0539-455a-8a75-d8300dac3b22)
+   </td>
       <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
     </tr>
     <tr>
