@@ -18,7 +18,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
     <tr>
       <td><img src="https://github.com/user-attachments/assets/735f704f-0539-455a-8a75-d8300dac3b22"/>
    </td>
-      <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
+      <td><img src="https://github.com/user-attachments/assets/06147d37-3902-4eaa-a851-ca548fae0fba"/>
+   </td>
     </tr>
     <tr>
       <td valign="text-top">Sive 2, depicting a vast survival game where you need to manage your hunger and thirst to continue your journey. You objective is Hunt for your survivability and  to escape the dangerous island.</td>
@@ -46,20 +47,22 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/wainini/wainini/blob/main/img/keep%20yourself%20alive%20400x225.gif"/></td>
-      <td><img src="https://github.com/wainini/wainini/blob/main/img/interstellar%20janitor%20%20400x225.gif"/></td>
+      <td><img src="https://github.com/user-attachments/assets/fb2d68c9-ced2-4645-ae55-993a4fe72207"/>
+     </td>
+      <td><img src="https://github.com/user-attachments/assets/d3e103ab-ea0f-43bd-8266-791af05a8f1c"/>
+   </td>
     </tr>
     <tr>
       <td valign="text-top">Lightning boy remains as my first simple game, inspired by Super Mario Bros where you gotta jump and avoid obstacle in order to reach to your winning places.</td>
       <td valign="text-top">WEE Land is a game that entirely forgoes combat system. Your main objective is to survive as long as possible maintaining the Welfare, Entertainment and Education meter for the citizen.<br></td>
     </tr>
     <tr>
-      <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
-      <td><a href="https://bgdc.itch.io/interstellar-janitor">Itch Page</td>
+      <td><a href="https://bisniskomodo.itch.io/lightning-boy">Itch Page</td>
+      <td><a href="https://bisniskomodo.itch.io/wee-land">Itch Page</td>
     </tr>
     <tr>
-      <td><a href="https://ldjam.com/events/ludum-dare/50/keep-yourself-alive">Jam Page</td>
-      <td><a href="https://itch.io/jam/brackeys-8/rate/1679306">Jam Page</td>
+      <td><a href="https://bisniskomodo.itch.io/lightning-boy">Jam Page</td>
+      <td><a href="https://bisniskomodo.itch.io/wee-land">Jam Page</td>
     </tr>
   </tbody>
 </table>
