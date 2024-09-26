@@ -10,8 +10,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bisniskomodo.itch.io/">Sive 2</a></th>
-      <th width="50%"><a href="https://bisniskomodo.itch.io/please-survive">Please Survive</a></th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/">Sive 2</a> Role : Game Programmer</th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/please-survive">Please Survive</a> Role : Game Programmer</th>
     </tr>
   </thead>
   <tbody>
@@ -41,8 +41,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bisniskomodo.itch.io/lightning-boy">Lightning Boy</a></th>
-      <th width="50%"><a href="https://bisniskomodo.itch.io/wee-land">WEE Land</a></th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/lightning-boy">Lightning Boy</a> Role : Game Programmer</th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/wee-land">WEE Land</a> Role : Game Programmer</th>
     </tr>
   </thead>
   <tbody>
