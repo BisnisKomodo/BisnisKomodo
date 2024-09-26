@@ -1,7 +1,7 @@
-# Hi, I'm Nicholas Van Lukman ðŸ‘‹
+# Hi, I'm Nicholas Van Lukman
 ---
-Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology ðŸŽ® </br>
-You can check and download games I've developed at [my itch page](https://wainini.itch.io)
+Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology </br>
+You can check and download games I've developed at (https://bisniskomodo.itch.io/)
 
 *All the GIFs are linked to their respective itch.io page*
 
@@ -9,8 +9,8 @@ You can check and download games I've developed at [my itch page](https://wainin
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Immunopedia ðŸ¦ </a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Work Less Play More ðŸŽ®</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Sive 2</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Please Survive</a></th>
     </tr>
   </thead>
   <tbody>
