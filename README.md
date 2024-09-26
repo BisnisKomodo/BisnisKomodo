@@ -23,7 +23,7 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
     </tr>
     <tr>
       <td valign="text-top">Sive 2, depicting a vast survival game where you need to manage your hunger and thirst to continue your journey. You objective is Hunt for your survivability and  to escape the dangerous island. I forged the HUD, inventory system, hotbar shortcut, Drag and drop handler, Slot generator, Item scriptable object, and also created the terrain.</br><b>Role : Game Programmer</b></td>
-      <td valign="text-top"">Please Survive, 2D top down shooter that rush yourself to a zombie apocalypse that keep spawning. You gotta kill them in order to survive the world. Each kills grant you score that makes the game even harder. I formulated a simple zombie enemy behavior, shooting scripts, Scoring system, animation system, gun system, and also the Healthcontroller.<div></div></td>
+      <td valign="text-top"">Please Survive, 2D top down shooter that rush yourself to a zombie apocalypse that keep spawning. You gotta kill them in order to survive the world. Each kills grant you score that makes the game even harder. I formulated a simple zombie enemy behavior, shooting scripts, Scoring system, animation system, gun system, and also the Healthcontroller.</br><b>Role : Game Programmer</b><div></div></td>
     </tr>
     <tr>
       <td><a href="https://bisniskomodo.itch.io/">Itch Page</td>
@@ -53,8 +53,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
    </td>
     </tr>
     <tr>
-      <td valign="text-top">Lightning boy remains as my first simple game, inspired by Super Mario Bros where you gotta jump and avoid obstacle in order to reach to your winning places. I built the player movement system,  Climbing System, Healthcontroller and the kill system for the player when falling to lava or touch nearby obstacle.</td>
-      <td valign="text-top">WEE Land is a game that entirely forgoes combat system. Your main objective is to survive as long as possible maintaining the Welfare, Entertainment and Education meter for the citizen. You are given a limited budget to satisfy the need of the citizen. I create Citizen meter, Shop System, Budget system, Day system, Next day system and a random event which trigger every one day.<br></td>
+      <td valign="text-top">Lightning boy remains as my first simple game, inspired by Super Mario Bros where you gotta jump and avoid obstacle in order to reach to your winning places. I built the player movement system,  Climbing System, Healthcontroller and the kill system for the player when falling to lava or touch nearby obstacle.</br><b>Role : Game Programmer</b></td>
+      <td valign="text-top">WEE Land is a game that entirely forgoes combat system. Your main objective is to survive as long as possible maintaining the Welfare, Entertainment and Education meter for the citizen. You are given a limited budget to satisfy the need of the citizen. I create Citizen meter, Shop System, Budget system, Day system, Next day system and a random event which trigger every one day.</br><b>Role : Game Programmer</b><br></td>
     </tr>
     <tr>
       <td><a href="https://bisniskomodo.itch.io/lightning-boy">Itch Page</td>
