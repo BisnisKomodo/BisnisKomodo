@@ -28,8 +28,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
       <td><a href="https://bisniskomodo.itch.io/please-survive">Itch Page</td>
     </tr>
     <tr>
-      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
-      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
+      <td><a href="https://bisniskomodo.itch.io/">Jam Page</td>
+      <td><a href="https://bisniskomodo.itch.io/please-survive">Jam Page</td>
     </tr>
   </tbody>
 </table>
