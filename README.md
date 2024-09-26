@@ -10,7 +10,7 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
   <thead>
     <tr>
       <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Sive 2</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Please Survive</a></th>
+      <th width="50%"><a href=https://bisniskomodo.itch.io/please-survive>Please Survive</a></th>
     </tr>
   </thead>
   <tbody>
