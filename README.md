@@ -10,8 +10,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Sive 2</a></th>
-      <th width="50%"><a href=https://bisniskomodo.itch.io/please-survive>Please Survive</a></th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/">Sive 2</a></th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/please-survive">Please Survive</a></th>
     </tr>
   </thead>
   <tbody>
@@ -24,11 +24,11 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
       <td valign="text-top"">Please Survive, 2D top down shooter that rush yourself to a zombie apocalypse that keep spawning. You gotta kill them in order to survive the world. Each kills grant you score that makes the game even harder.<div></div></td>
     </tr>
     <tr>
-      <td><a href="https://bgdc.itch.io/immunopedia">Itch Page</td>
-      <td><a href="https://bgdc.itch.io/work-less-play-more">Itch Page</td>
+      <td><a href="https://bisniskomodo.itch.io/">Itch Page</td>
+      <td><a href="https://bisniskomodo.itch.io/please-survive">Itch Page</td>
     </tr>
     <tr>
-      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323"></td>
+      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
       <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
     </tr>
   </tbody>
@@ -39,8 +39,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive ðŸ’€</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/interstellar-janitor">Interstellar Janitor ðŸ§¹</a></th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/lightning-boy">Lightning Boy</a></th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/wee-land">WEE Land</a></th>
     </tr>
   </thead>
   <tbody>
@@ -49,8 +49,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
       <td><img src="https://github.com/wainini/wainini/blob/main/img/interstellar%20janitor%20%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
-      <td valign="text-top">Interstellar Janitor is my try at making tile-based movement and some dialogue system. The game itself was made for Brackeys Game Jam 2022.2 and was themed around the Jam theme "You're not alone". It's a logic puzzle game where you need to read clues scattered around the spaceship to deduce some objects that might just be an alien in disguise.<br></td>
+      <td valign="text-top">Lightning boy remains as my first simple game, inspired by Super Mario Bros where you gotta jump and avoid obstacle in order to reach to your winning places.</td>
+      <td valign="text-top">WEE Land is a game that entirely forgoes combat system. Your main objective is to survive as long as possible maintaining the Welfare, Entertainment and Education meter for the citizen.<br></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
