@@ -1,7 +1,7 @@
 # Hi, I'm Nicholas Van Lukman
 ---
-Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology </br>
-I do game programming and various aspect of game development due to my versatility </br>
+Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology. </br>
+I do game programming and various aspect of game development due to my versatility. </br>
 You can check and download games I've developed at (https://bisniskomodo.itch.io/)
 
 *All the GIFs are linked to their respective itch.io page*
