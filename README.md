@@ -19,15 +19,15 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
       <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Sive 2, depicting a vast survival game where you need to manage your hunger and thirst to continue your journey. You objective is Hunt for your survivability and  to escape the dangerous island. </td>
-      <td valign="text-top"">Please Survive, 2D top down shooter that rush yourself to a zombie apocalypse that keep spawning. You gotta kill them in order to survive the world. Each kills grant you score that makes the game even harder. .<div></div></td>
+      <td valign="text-top">Sive 2, depicting a vast survival game where you need to manage your hunger and thirst to continue your journey. You objective is Hunt for your survivability and  to escape the dangerous island.</td>
+      <td valign="text-top"">Please Survive, 2D top down shooter that rush yourself to a zombie apocalypse that keep spawning. You gotta kill them in order to survive the world. Each kills grant you score that makes the game even harder.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/immunopedia">Itch Page</td>
       <td><a href="https://bgdc.itch.io/work-less-play-more">Itch Page</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323"></td>
       <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
     </tr>
   </tbody>
