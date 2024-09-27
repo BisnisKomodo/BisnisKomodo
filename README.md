@@ -71,7 +71,7 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
   <thead>
     <tr>
       <th width="50%"><a href="https://xviig.itch.io/echoes-beneath">Echoes Beneath</a></th>
-      <th width="50%"><a href="https://bisniskomodo.itch.io/">Nightwalker/a></th>
+      <th width="50%"><a href="https://bisniskomodo.itch.io/">Nightwalker</th>
     </tr>
   </thead>
   <tbody>
