@@ -26,8 +26,8 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
       <td valign="text-top"">Please Survive, 2D top down shooter that rush yourself to a zombie apocalypse that keep spawning. You gotta kill them in order to survive the world. Each kills grant you score that makes the game even harder. I formulated a simple zombie enemy behavior, shooting scripts, Scoring system, animation system, gun system, and also the Healthcontroller.<div></div></td>
     </tr>
     <tr>
-      <td><a href="https://bisniskomodo.itch.io/"><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
-      <td><a href="https://bisniskomodo.itch.io/please-survive"><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
+      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
+      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
     </tr>
     <tr>
       <td><a href="https://bisniskomodo.itch.io/">Itch Page</td>
@@ -57,12 +57,12 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
       <td valign="text-top">WEE Land is a game that entirely forgoes combat system. Your main objective is to survive as long as possible maintaining the Welfare, Entertainment and Education meter for the citizen. You are given a limited budget to satisfy the need of the citizen. I create Citizen meter, Shop System, Budget system, Day system, Next day system and a random event which trigger every one day.</br><b>Role : Game Programmer</b><br></td>
     </tr>
     <tr>
-      <td><a href="https://bisniskomodo.itch.io/lightning-boy">Itch Page</td>
-      <td><a href="https://bisniskomodo.itch.io/wee-land">Itch Page</td>
+      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
+      <td><b>Types : Team Group</br>Contribution : Game Programmer</b></td>
     </tr>
     <tr>
-      <td><a href="https://bisniskomodo.itch.io/lightning-boy">Jam Page</td>
-      <td><a href="https://bisniskomodo.itch.io/wee-land">Jam Page</td>
+      <td><a href="https://bisniskomodo.itch.io/lightning-boy">Itch Page</td>
+      <td><a href="https://bisniskomodo.itch.io/wee-land">Itch Page</td>
     </tr>
   </tbody>
 </table>
