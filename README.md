@@ -57,7 +57,7 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
       <td valign="text-top">WEE Land is a game that entirely forgoes combat system. Your main objective is to survive as long as possible maintaining the Welfare, Entertainment and Education meter for the citizen. You are given a limited budget to satisfy the need of the citizen. I create Citizen meter, Shop System, Budget system, Day system, Next day system and a random event which trigger every one day.<br></td>
     </tr>
     <tr>
-      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
+      <td><b>Types : Duo</br>Contribution : Game Programmer</b></td>
       <td><b>Types : Team Group</br>Contribution : Game Programmer</b></td>
     </tr>
     <tr>
