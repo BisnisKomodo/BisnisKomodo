@@ -20,7 +20,7 @@
       <td valign="text-top"">Please Survive, 2D top down shooter that rush yourself to a zombie apocalypse that keep spawning. You gotta kill them in order to survive the world. Each kills grant you score that makes the game even harder. I formulated a simple zombie enemy behavior, shooting scripts, Scoring system, animation system, gun system, and also the Healthcontroller.<div></div></td>
     </tr>
     <tr>
-      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
+      <td>Github Page</td>
       <td><a href="https://github.com/BisnisKomodo/Please-Survive">Github Page</td>
     </tr>
     <tr>
