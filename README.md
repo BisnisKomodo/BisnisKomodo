@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas Van Lukman
 ---
-# Here are highlights from some of the games I made:
+# Checkout my game ⭐
 <table width="100%">
   <thead>
     <tr>
@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/BisnisKomodo/Lightning-Boy/tree/main">Github Page</td>
-      <td><b>Types : Team Group</br>Contribution : Game Programmer</b></td>
+      <td><a href="https://github.com/BisnisKomodo/Please-Survive">Github Page</td>
     </tr>
     <tr>
       <td><a href="https://bisniskomodo.itch.io/lightning-boy">Itch Page</td>
