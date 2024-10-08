@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/BisnisKomodo/Lightning-Boy/tree/main">Github Page</td>
-      <td><a href="https://github.com/BisnisKomodo/Please-Survive">Github Page</td>
+      <td><a href=https://github.com/BisnisKomodo/WEE-Land>Github Page</td>
     </tr>
     <tr>
       <td><a href="https://bisniskomodo.itch.io/lightning-boy">Itch Page</td>
@@ -64,6 +64,9 @@
 # 🕵️‍♂️ About Me
  I'm an undergraduate student majoring in Game Development field, I use Unity and Construct as my main game engine<br>
  I specialize in game programming and have also taken on various other roles, including game art and sound due to my versatility<br>
+ My hands-on experience with Unity and Construct gives me the flexibility to work on a wide range of game projects, from 2D to 3D environments<br> 
+ I'm constantly learning and adapting to new technologies, frameworks, and design principles to enhance my game development expertise<br>
+ Moreover, my exposure to game art and sound design has enriched my creative problem-solving abilities, making me a well-rounded contributor to any project I work on<br>
  <br>
  Below is my roles in game development other than game programming,<br>
 
