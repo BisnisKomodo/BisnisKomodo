@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
-      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
+      <td><a href="https://github.com/BisnisKomodo/Please-Survive">Github Page</td>
     </tr>
     <tr>
       <td><a href="https://bisniskomodo.itch.io/">Itch Page</td>
