@@ -62,9 +62,9 @@
 </table>
 
 # 🕵️‍♂️ About Me
----
  I'm an undergraduate student majoring in Game Development field, I use Unity and Construct as my main game engine<br>
- I do game programming and 
+ I specialize in game programming and have also taken on various other roles, including game art and sound due to my versatility<br>
+ Below is my roles in game development other than game programming,<br>
 
 <table width="100%">
   <thead>
