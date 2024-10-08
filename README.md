@@ -60,7 +60,8 @@
     </tr>
   </tbody>
 </table>
- # 🕵️‍♂️About Me
+
+# 🕵️‍♂️ About Me
 ---
  I'm an undergraduate student majoring in Game Development field, I use Unity and Construct as my main game engine<br>
  I do game programming and 
