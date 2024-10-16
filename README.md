@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/735f704f-0539-455a-8a75-d8300dac3b22"/>
+      <td><img src="https://github.com/user-attachments/assets/56819c6b-f835-41b8-88ed-68849a09745a"/>
    </td>
       <td><img src="https://github.com/user-attachments/assets/06147d37-3902-4eaa-a851-ca548fae0fba"/>
    </td>
